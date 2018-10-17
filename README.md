@@ -11,7 +11,8 @@
 
 ## Part2 (迭代执行)
 
-* * [第五章 - RD 创业遇到的九九个坑](04.md)
+* [第五章 - 敏捷开发以及 User Story](05.md)
+* [第六章 - Redmine 切票法](06.md)
 * Part 2
   - User Story
   - 指挥官任务
