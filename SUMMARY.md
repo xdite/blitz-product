@@ -13,15 +13,20 @@
 
 * [第五章 - 敏捷开发以及 User Story](05.md)
 * [第六章 - Redmine 切票法](06.md)
-* Part 2
-  - User Story
-  - 指挥官任务
-  - Redmine 切票
-  - 再次迭代
-  - 对话式设计
-  - Onboarding
-* Part 3
-  - Intercom
-  - NPS
-  - Referral
-* 总结
+* [第七章 - 指挥官任务](07.md)
+* [第八章 - 对话式设计](08.md)
+
+## Part 3 (Wrap)
+
+* [第九章 - 倒数法](09.md)
+* [第十章 - Onboarding](10.md)
+
+## Part 4 疯狂增长
+
+* [第十一章 - Customer Support](11.md)
+* [第十二章 - NPS - Refferal](12.md)
+* [第十三章 - Hook / Loop](13.md)
+
+## 结语
+
+* [结语章节](14.md)
