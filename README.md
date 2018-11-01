@@ -3,24 +3,24 @@
 * [引言 - 为什么写作这本书](00.md)
 * [第1章 - 闪电式开发](01.md)
 
-## Part 1  （做产品之前）
+## Part 1 - IDEA 试验
 
 * [第2章 - Landing Page](02.md)
 * [第3章 - 逆向法 - 亚玛逊如何发布产品](03.md)
 * [第4章 - RD 创业遇到的九九个坑](04.md)
 
-## Part2 (迭代执行)
+## Part2 - 功能开发迭代
 
 * [第5章 - 敏捷开发以及 User Story](05.md)
 * [第6章 - 倒数法](06.md)
 * [第7章 - 項目展开与收敛](07.md)
 
-## Part 3 (Wrap)
+## Part 3 - UX
 
 * [第8章 - 对话式设计](08.md)
 * [第9章 - Onboarding](09.md)
 
-## Part 4 疯狂增长
+## Part 4 - 增长
 
 * [第10章 - Customer Support](10.md)
 * [第11章 - NPS - Refferal](11.md)
