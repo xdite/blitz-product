@@ -35,3 +35,13 @@ Anticipated audiences:
   - 如何决定 feature
   - 用客户反馈，而不是讨论去改进 feature
   - 用增长的角度去做产品
+
+Table of Contents:
+
+Part 1: 找出正确的 IDEA
+
+Part 2: 灵活快速的 Shipping
+
+Part 3: 准确的打磨细节 / 降低流失率
+
+Part 4: 养成使用者的习惯 / 增长
