@@ -24,7 +24,7 @@
 ## Part 4 疯狂增长
 
 * [第十一章 - Customer Support](11.md)
-* [第十二章 - NPS - Refferal](12.md)
+* [第十二章 - NPS - Refferal](11.md)
 * [第十三章 - Hook / Loop](13.md)
 
 ## 结语

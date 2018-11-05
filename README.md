@@ -18,14 +18,14 @@
 ## Part 3 - UX
 
 * [第8章 - 对话式设计](08.md)
-* [第9章 - Onboarding UX - Part 1](09-1.md)
+* [第9章 - Onboarding UX - Part 1](09.md)
 * [第10章 - Onboarding UX - Part 2](10.md)
 
 ## Part 4 - 增长
 
-* [第10章 - Customer Support](11.md)
-* [第11章 - NPS - Refferal](12.md)
-* [第12章 - Hook / Loop](13.md)
+* [第11章 - NPS - Refferal](11.md)
+* [第12章 - Customer Support](12.md)
+* [第13章 - Hook / Loop](13.md)
 
 ## 结语
 
