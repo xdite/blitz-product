@@ -1,31 +1,31 @@
 # Summary
 
 * [引言 - 为什么写作这本书](00.md)
-* [第一章 - 闪电式开发](01.md)
+* [第1章 - 闪电式开发](01.md)
 
-## Part 1 - IDEX 试验
+## Part 1 - IDEA 试验
 
-* [第二章 - Landing Page](02.md)
-* [第三章 - 逆向法 - 亚玛逊如何发布产品](03.md)
-* [第四章 - RD 创业遇到的九九个坑](04.md)
+* [第2章 - Landing Page](02.md)
+* [第3章 - 逆向法 - 亚玛逊如何发布产品](03.md)
+* [第4章 - RD 创业遇到的九九个坑](04.md)
 
-## Part2 - 功能开发迭代
+## Part2 - 敏捷的迭代开发功能
 
-* [第五章 - 敏捷开发以及 User Story](05.md)
-* [第六章 - 倒数法](06.md)
-* [第七章 - Redmine 切票法](07.md)
-* [第八章 - 指挥官任务](08.md)
+* [第5章 - 敏捷开发以及 User Story](05.md)
+* [第6章 - 倒数法](06.md)
+* [第7章 - 項目展开与收敛](07.md)
 
-## Part 3 - UX
+## Part 3 - 提高你的留存率
 
-* [第九章 - 对话式设计](09.md)
-* [第十章 - Onboarding](10.md)
+* [第8章 - 对话式设计](08.md)
+* [第9章 - Onboarding UX - Part 1](09.md)
+* [第10章 - Onboarding UX - Part 2](10.md)
 
-## Part 4 疯狂增长
+## Part 4 - 启动你的增长引擎
 
-* [第十一章 - Customer Support](11.md)
-* [第十二章 - NPS - Refferal](11.md)
-* [第十三章 - Hook / Loop](13.md)
+* [第11章 -  Referral & NPS ](11.md)
+* [第12章 - Customer Support](12.md)
+* [第13章 - Hook / Loop](13.md)
 
 ## 结语
 
