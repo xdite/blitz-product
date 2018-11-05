@@ -23,7 +23,7 @@
 
 ## Part 4 - 启动你的增长引擎
 
-* [第11章 -  Referral & NPS ](11.md)
+* [第11章 - Referral & NPS ](11.md)
 * [第12章 - Customer Support](12.md)
 * [第13章 - Hook / Loop](13.md)
 
