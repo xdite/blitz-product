@@ -25,7 +25,7 @@
 
 * [第11章 - Referral & NPS ](11.md)
 * [第12章 - Customer Support](12.md)
-* [第13章 - Hook / Loop](13.md)
+* [第13章 - 创业就是要细分垄断](13.md)
 
 ## 结语
 
