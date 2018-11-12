@@ -17,8 +17,7 @@
 
 ## Part 3 - 提高你的留存率
 
-* [第08章 - Onboarding UX - Part 1](08.md)
-* [第09章 - Onboarding UX - Part 2](09.md)
+* [第08章 - Onboarding UX - Part 1](08.md) - 二校完成，原第八章与第九章合并
 * [第10章 - 对话式设计](10.md)
 
 ## Part 4 - 启动你的增长引擎
